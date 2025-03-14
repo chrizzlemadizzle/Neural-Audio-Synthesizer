@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Pro-R",
+	"origin" : "Pro-R.vst3info",
+	"type" : "VST3",
+	"subtype" : "MidiEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "Pro-R.vst3info",
+		"plugindisplayname" : "Pro-R",
+		"pluginsavedname" : "",
+		"pluginsaveduniqueid" : 2145746881,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [  ],
+		"slidervisibility" : [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0 ],
+		"blob" : "677.VMjLgvo....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9LCNy3hQEwFVFkjKt3hK1MjKt3hKDUEaYcVUGEldAgGUqE0Qi8FMwjkKt3hKtPUQt3hKt3hKtX2St3hKt3hKt3hK2jFaYw1aO4hKt3xJLkGS4cyPt3hYxAkKt3hYq3hKt3RN4UlRtcDTPsxQvjCdxXmM0LjKt3xLO4hKtX1JHc2a2QDQR8DQxUGSogEZ43hKt3hKt3hKt3BTZ8jLGETPt3hKt3hKt3hcO4hKt3hKt3hKt3hZwjGNQAkKt3hKt3hKt3xMC4hKt3hKt3hKt3xa3HVYDQjKt3hKt3hKt3xJt3hKt3hKt3hKt.kVOIyQAEjKt3hKt3hKtX2St3hKt3hKt3hKtnVL4giTP4hKt3hK0I0PXcyPt3hKt3hKt3hYq3hKt3RNCIySoUETt3hKt3xPt3hK2LjKt3BRP4hKtX1Jt3hKtjSZO8lSQAkKt3hZtTmVz7jMC4hKt3hKt3hKlshKt3hKtnVL4gSTP4hKt3hKt3hKtbyPt3hKt3hKt3hYq3hKt3hKpESd3DETt3hKt3hKt3hK2LjKt3hKt3hKtX1Jt3hKt3hZwjGNQAkKt3hKt3hKt3xMC4hKt3hKt3hKlsBT3kDQwLjKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKt3RPt3hK4LjKt3hKtDjKt3hKD4hKt3hK77RRC8Vav8lak4Fc9vSREQVZzMzatQmbuwFakImOwHiKFkEUYoVPt3hKt3hKt3hKtvyKIUDYoQ2Pu4Fcx8FarUlb9vyKVMEUy.Ea0cVZtMEcgQWY9.."
+	}
+
+}
