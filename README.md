@@ -35,7 +35,7 @@ The mixed stereo output is then processed through a small VST master chain:
 
 ## High-Level Architecture
 
-![Neural Audio Synthesizer GUI](images/synth-gui.png)
+![Neural Audio Synthesizer GUI](images/instrument-schema_sw.png)
 
 Signal flow (simplified):
 
@@ -89,6 +89,8 @@ All latent modules work in **8 channels**, matching the 8 latent inputs of each 
 
 ### 1. Offset
 
+![Neural Audio Synthesizer GUI](images/offset_sw.png)
+
 Generates 8 constant control signals:
 
 - Each channel has its own offset value (set via GUI or Ableton Push knobs).
@@ -96,6 +98,8 @@ Generates 8 constant control signals:
 - Using only the Offset module results in **static sound textures** whose timbre is shaped by the latent parameters.
 
 ### 2. Oscillators
+
+![Neural Audio Synthesizer GUI](images/periodic_sw.png)
 
 Generates 8 independent periodic signals:
 
@@ -113,13 +117,18 @@ Generates 8 independent periodic signals:
 
 ### 3. Noise & Random
 
+
 Generates 8 independent random/chaotic signals:
+
+![Neural Audio Synthesizer GUI](images/noise_sw.png)
 
 - Based on `noise~` / `rand~` in MSP.
 - Output is scaled by an expression multiplier.
 - Alone, this module produces **non-repetitive but internally consistent textures**.
 
 ### 4. Presets & Interpolations
+
+![Neural Audio Synthesizer GUI](images/presets_sw.png)
 
 All settings from Offset, Oscillators, and Noise modules can be **stored and recalled**:
 
@@ -155,6 +164,8 @@ The encoder:
 This allows, for example, **targeted excitation of resonances** in selected latent dimensions.
 
 ### 6. Latent Code Jamming
+
+![Neural Audio Synthesizer GUI](images/latentjam_sw.png_sw.png)
 
 Inspired by Martin Heinze’s “Saatgut Proxy” (a Pure Data patch for stochastic latent sequences):
 
