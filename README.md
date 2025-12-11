@@ -35,6 +35,8 @@ The mixed stereo output is then processed through a small VST master chain:
 
 ## High-Level Architecture
 
+![Neural Audio Synthesizer GUI](images/synth-gui.png)
+
 Signal flow (simplified):
 
 1. **Latent Manipulation Modules** (8-channel each)
